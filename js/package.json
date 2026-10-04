@@ -13,7 +13,7 @@
     "jsdom-global": "^3.0.2",
     "jsverify": "^0.8.3",
     "mime-types": "^3.0.2",
-    "mocha": "^11.7.5",
+    "mocha": "^12.0.3",
     "nyc": "^18.0.0"
   },
   "scripts": {
@@ -42,5 +42,11 @@
   "bugs": {
     "url": "https://github.com/PrivateBin/PrivateBin/issues"
   },
-  "homepage": "https://privatebin.info/"
+  "homepage": "https://privatebin.info/",
+  "contributors": [
+    {
+      "name": "rajivranjanmars",
+      "url": "https://rajivranjana.in"
+    }
+  ]
 }

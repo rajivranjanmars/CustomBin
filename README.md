@@ -108,3 +108,13 @@ file](https://github.com/PrivateBin/PrivateBin/wiki/Configuration):
 
 Run into any issues? Have ideas for further developments? Please
 [report](https://github.com/PrivateBin/PrivateBin/issues) them!
+
+## Repository overview
+
+A fork of PrivateBin, a browser-encrypted paste-sharing service with a PHP backend. The existing PrivateBin documentation below describes encryption, installation, and project credits.
+
+## Author
+
+Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+
+Upstream authors, contributors, licenses, and existing project credits are retained.
