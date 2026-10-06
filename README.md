@@ -115,6 +115,6 @@ A fork of PrivateBin, a browser-encrypted paste-sharing service with a PHP backe
 
 ## Author
 
-Fork author and maintainer: [rajivranjanmars](https://rajivranjana.in).
+Fork author and maintainer: [Rajiv Ranjan](https://rajivranjan.in).
 
 Upstream authors, contributors, licenses, and existing project credits are retained.
